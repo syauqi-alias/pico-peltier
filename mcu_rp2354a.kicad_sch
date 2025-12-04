@@ -12314,7 +12314,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_JAE_DX07S016JA1R1500"
 			(at 59.69 58.42 0)
 			(effects
 				(font
@@ -12360,6 +12360,15 @@
 			)
 		)
 		(property "farnell" "3588205"
+			(at 55.88 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" "640-USB4105-GF-A "
 			(at 55.88 58.42 0)
 			(effects
 				(font
@@ -12485,6 +12494,15 @@
 			)
 		)
 		(property "LCSC" ""
+			(at 181.61 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" "815-ABM8-272-T3 "
 			(at 181.61 44.45 90)
 			(effects
 				(font

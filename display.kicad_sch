@@ -5786,6 +5786,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser" "474-COM-24837 "
+			(at 233.68 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ce2623a2-3f92-4695-94f6-734b86dbc594")
 		)

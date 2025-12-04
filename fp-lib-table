@@ -6,4 +6,5 @@
   (lib (name "TPSM863253RDXR")(type "KiCad")(uri "${KIPRJMOD}/library/TPSM863253RDXR")(options "")(descr ""))
   (lib (name "F3311A7H121016E200")(type "KiCad")(uri "${KIPRJMOD}/library/F3311A7H121016E200")(options "")(descr ""))
   (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/library/logo")(options "")(descr ""))
+  (lib (name "DX07S016JA3R1500")(type "KiCad")(uri "${KIPRJMOD}/library/DX07S016JA3R1500/KiCADv6/footprints.pretty")(options "")(descr ""))
 )
