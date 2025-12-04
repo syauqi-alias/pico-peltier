@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PEC12R_3220F_S0024'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "PEC12R-3220F-S0024" (!) = "", "PEC12R3220FS0024", "Other", "652-PEC12R3220FS0024", "https://www.mouser.co.uk/ProductDetail/Bourns/PEC12R-3220F-S0024?qs=%252B9%2Fcbd0IE0Tm%252BWkxcjszVA%3D%3D", "PEC12R-3220F-S0024", "https://www.arrow.com/en/products/pec12r-3220f-s0024/bourns?region=nac", "Encoders HORZ 24DET 24PULSE 20mm SHAFT SPST SW", "https://www.bourns.com/docs/Product-Datasheets/PEC12R.pdf", "22.5 mm"
+END_PART
+
+END.

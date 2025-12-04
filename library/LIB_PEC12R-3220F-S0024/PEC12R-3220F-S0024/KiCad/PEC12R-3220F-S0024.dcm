@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PEC12R-3220F-S0024
+D Encoders HORZ 24DET 24PULSE 20mm SHAFT SPST SW
+K
+F https://www.bourns.com/docs/Product-Datasheets/PEC12R.pdf
+$ENDCMP
+#
+#End Doc Library

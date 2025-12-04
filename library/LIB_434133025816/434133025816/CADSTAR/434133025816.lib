@@ -1,0 +1,18 @@
+.434133025816 :1 ;WS-TASV Tact Switch 4.2*3.2mm vertical type, J-Bend SMT, height 2.5mm, black actuator, 160gf, T&R
+"434133025816"
+*STM S
+*NGS
+*PLB 1="NO_1" 2="NO_2" 3="COM_1" 4="COM_2"
+*MXP 4
+*DFN 434133025816
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (434133025816)
+~!Mouser Part Number (710-434133025816)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/434133025816?qs=sPbYRqrBIVmKpJ9kaO4kMw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.we-online.com/components/products/download/3D_4341x30258x6+%28rev1%29.pdf)
+~!Height (2.5mm)
+~!3D_Model (434133025816)
+"434133025816"
+1.1!U 2.1!U 3.1!U 4.1!U 

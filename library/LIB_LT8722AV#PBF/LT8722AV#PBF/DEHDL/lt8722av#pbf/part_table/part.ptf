@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LT8722AV#PBF'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "LT8722AV#PBF" (!) = "", "LT8722AVPBF", "Other", "584-LT8722AVPBF", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LT8722AVPBF?qs=4ASt3YYao0VrHs25JzE8rA%3D%3D", "", "", "Demonstration circuit 3145A demonstrates a high efficiency thermoelectric cooler driver and features the LT8722 monolithic driver.", "https://www.analog.com/media/en/technical-documentation/data-sheets/lt8722.pdf", "1.05 mm"
+END_PART
+
+END.

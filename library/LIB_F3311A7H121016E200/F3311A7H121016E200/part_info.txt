@@ -1,0 +1,9 @@
+Manufacturer=Amphenol Communications Solutions
+PartNumber=F3311A7H121016E200
+PartCategory=Connector
+PackageCategory=Other
+PinCount=18
+Version=6.4
+Released=2024-06-28 07:06:35
+Downloaded=2025-12-03 16:35:40
+3D=Y

@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=LT8722AV#PBF
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=22
+Version=6.2
+Released=2022-01-24 11:23:25
+Downloaded=2025-12-03 16:20:50
+3D=Y

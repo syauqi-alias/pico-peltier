@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LT8722_footprints")(type "KiCad")(uri "${KIPRJMOD}/library/ul_LT8722AV-PBF/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "RP2350_60QFN_minimal")(type "KiCad")(uri "${KIPRJMOD}/library/RP235x/RP2350_60QFN_minimal.pretty")(options "")(descr ""))
+  (lib (name "TPSM863253_footprints")(type "KiCad")(uri "${KIPRJMOD}/library/ul_PTPSM863253RDXR/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "TPSM863253RDXR")(type "KiCad")(uri "${KIPRJMOD}/library/TPSM863253RDXR")(options "")(descr ""))
+  (lib (name "F3311A7H121016E200")(type "KiCad")(uri "${KIPRJMOD}/library/F3311A7H121016E200")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/library/logo")(options "")(descr ""))
+)

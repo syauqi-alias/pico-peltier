@@ -1,0 +1,134 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "30.002"
+   (description "Fixed Terminal Blocks AK100/2wp PCBGry")
+   (family "CON")
+   (package "30002")
+   (attribute "Datasheet Link" "https://www.mouser.it/datasheet/2/16/PCBMETRC-24178.pdf")
+   (attribute "Geometry.Height" "12.5mm")
+   (attribute "Manufacturer_Name" "Altech")
+   (attribute "Manufacturer_Part_Number" "30.002")
+   (attribute "Mouser Part Number" "845-30.002")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Altech/30.002?qs=GlCpp4uMqnB%2FSggixfJMBw%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "30.002")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "30.002"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "30002"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.5 5)
+      (pt 7.5 5)
+      (pt 7.5 -4)
+      (pt -2.5 -4)
+      (pt -2.5 5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.5 5)
+      (pt 7.5 5)
+      (pt 7.5 -4)
+      (pt -2.5 -4)
+      (pt -2.5 5))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.2 6)
+      (pt 8.5 6)
+      (pt 8.5 -5)
+      (pt -4.2 -5)
+      (pt -4.2 6))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.5 2.54)
+      (pt -3.2 3.04)
+      (pt -3.2 2.04)
+      (pt -2.5 2.54))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.5 2.54)
+      (pt -3.2 3.04)
+      (pt -3.2 2.04)
+      (pt -2.5 2.54))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.4 0)
+      (arc (pt -3.400 0.000) (pt -3.500 -0.050) (pt -3.400 0.050) (start 180.0) (sweep .0))
+      (pt -3.5 0)
+      (arc (pt -3.500 0.000) (pt -3.500 -0.050) (pt -3.400 0.050) (start 180.0) (sweep 180.0))
+      (pt -3.4 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 5.000 0.000) (padstack 2))
+   (padstack 0
+    (hole 1.2)
+    (plated true)
+    (pad (layer TCOP) (square 1.800))
+    (pad (layer INNER) (round 1.800))
+    (pad (layer BCOP) (square 1.800))
+   )
+   (padstack 2
+    (hole 1.2)
+    (plated true)
+    (pad (layer TCOP) (round 1.800))
+    (pad (layer INNER) (round 1.800))
+    (pad (layer BCOP) (round 1.800))
+   )
+   (model "30.002.stp"
+    (euler 90 0 90)
+    (offset 2.359999895095825 0.3700000047683716 8.699999809265137)
+   )
+  )
+ )
+)

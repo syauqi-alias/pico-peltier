@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "LT8722AVPBF"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "LT8722AVPBF")
+        (spec "default")
+    )
+)
