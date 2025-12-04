@@ -38,3 +38,7 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# ignore build output directories
+pico_peltier-backups/
+analog device demo dc3145a/
