@@ -1,0 +1,18 @@
+.LT8722AV_PBF :1 ;Demonstration circuit 3145A demonstrates a high efficiency thermoelectric cooler driver and features the LT8722 monolithic driver.
+LT8722AVPBF
+*STM IC
+*NGS
+*PLB 1="SYNC" 2="VCC" 3="BST" 4="VIN_1" 5="GND_1" 6="SW_1" 7="SW_2" 8="LDR_1" 9="LDR_2" 10="GND_2" 11="VIN_2" 12="SFB" 13="SWEN" 14="VDDIO" 15="'CS'" 16="SCK" 17="MOSI" 18="MISO" 19="EN" 20="AOUT" 21="GND_3" 22="GND_4"
+*MXP 22
+*DFN LT8722AV_PBF
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (LT8722AV#PBF)
+~!Mouser Part Number (584-LT8722AVPBF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/LT8722AVPBF?qs=4ASt3YYao0VrHs25JzE8rA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.analog.com/media/en/technical-documentation/data-sheets/lt8722.pdf)
+~!Height (1.05mm)
+~!3D_Model (LT8722AV#PBF)
+LT8722AV_PBF
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 

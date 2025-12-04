@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '30.002'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Altech", "30.002" (!) = "", "30002", "Other", "845-30.002", "https://www.mouser.co.uk/ProductDetail/Altech/30.002?qs=GlCpp4uMqnB%2FSggixfJMBw%3D%3D", "", "", "Fixed Terminal Blocks AK100/2wp PCBGry", "https://www.mouser.it/datasheet/2/16/PCBMETRC-24178.pdf", "12.5 mm"
+END_PART
+
+END.

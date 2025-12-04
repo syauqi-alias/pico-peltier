@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LT8722")(type "KiCad")(uri "${KIPRJMOD}/library/ul_LT8722AV-PBF/KiCADv6/2025-11-14_13-50-17.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_RP2350")(type "KiCad")(uri "${KIPRJMOD}/library/RP235x/MCU_RaspberryPi_RP2350.kicad_sym")(options "")(descr ""))
+  (lib (name "TPSM863253")(type "KiCad")(uri "${KIPRJMOD}/library/ul_PTPSM863253RDXR/KiCADv6/2025-11-20_11-11-57.kicad_sym")(options "")(descr ""))
+)

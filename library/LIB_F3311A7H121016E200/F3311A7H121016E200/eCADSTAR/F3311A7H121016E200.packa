@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "F3311A7H121016E200"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-06-28-07:06:35)
+    (mountForm default
+        (footprintRef "F3311A7H121016E200")
+        (spec "System")
+    )
+)

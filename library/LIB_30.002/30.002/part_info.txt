@@ -1,0 +1,9 @@
+Manufacturer=Altech
+PartNumber=30.002
+PartCategory=Connector
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2023-06-14 07:56:19
+Downloaded=2025-12-03 16:04:18
+3D=Y

@@ -1,0 +1,182 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "PEC12R-3220F-S0024"
+   (description "Encoders HORZ 24DET 24PULSE 20mm SHAFT SPST SW")
+   (family "SWI")
+   (package "PEC12R3220FS0024")
+   (attribute "Datasheet Link" "https://www.bourns.com/docs/Product-Datasheets/PEC12R.pdf")
+   (attribute "Geometry.Height" "22.5mm")
+   (attribute "Manufacturer_Name" "Bourns")
+   (attribute "Manufacturer_Part_Number" "PEC12R-3220F-S0024")
+   (attribute "Mouser Part Number" "652-PEC12R3220FS0024")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/PEC12R-3220F-S0024?qs=%252B9%2Fcbd0IE0Tm%252BWkxcjszVA%3D%3D")
+   (attribute "Arrow Part Number" "PEC12R-3220F-S0024")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/pec12r-3220f-s0024/bourns?region=nac")
+   (gate
+    (symbol "PEC12R-3220F-S0024")
+    (pin "COM" 1 PS)
+    (pin "NO" 2 PS)
+    (pin "CHANNEL_A" A1 PS)
+    (pin "CHANNEL_B" B1 PS)
+    (pin "COMMON" C1 PS)
+    (pin "MH1" MH1 PS)
+    (pin "MH2" MH2 PS)
+   )
+  )
+  (symbol "PEC12R-3220F-S0024"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 400) (pt 800 400) (pt 800 -700) (pt 200 -700) (pt 200 400) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 400 600) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 600) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 400 -900) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 600 -900) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 -900) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "PEC12R3220FS0024"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.7 -0.3)
+      (pt 8.7 -0.3)
+      (pt 8.7 -13.7)
+      (pt -3.7 -13.7)
+      (pt -3.7 -0.3))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.56 1.75)
+      (pt 11.56 1.75)
+      (pt 11.56 -16.25)
+      (pt -6.56 -16.25)
+      (pt -6.56 1.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 1.2)
+      (arc (pt 0.000 1.200) (pt -0.050 1.100) (pt 0.050 1.200) (start 180.0) (sweep 90.0))
+      (pt 0 1.1)
+      (arc (pt 0.000 1.100) (pt -0.050 1.100) (pt 0.050 1.200) (start 180.0) (sweep -90.0))
+      (pt 0 1.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 6.2 -0.3)
+      (pt 8.7 -0.3)
+      (pt 8.7 -4.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.2 -0.3)
+      (pt -3.7 -0.3)
+      (pt -3.7 -4.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.7 -9.8)
+      (pt -3.7 -13.7)
+      (pt -0.8 -13.7))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 8.7 -9.8)
+      (pt 8.7 -13.7)
+      (pt 5.8 -13.7))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt 5.000 0.000) (padstack 0))
+   (leg A1 (pt 0.000 -14.500) (padstack 0))
+   (leg B1 (pt 5.000 -14.500) (padstack 0))
+   (leg C1 (pt 2.500 -14.500) (padstack 0))
+   (leg MH1 (pt -3.100 -7.000) (padstack 6))
+   (leg MH2 (pt 8.100 -7.000) (padstack 7))
+   (padstack 0
+    (hole 1)
+    (plated true)
+    (pad (layer TCOP) (round 1.500))
+    (pad (layer INNER) (round 1.500))
+    (pad (layer BCOP) (round 1.500))
+   )
+   (padstack 1
+    (hole 1)
+    (plated true)
+    (pad (layer TCOP) (square 1.500))
+    (pad (layer INNER) (round 1.500))
+    (pad (layer BCOP) (square 1.500))
+   )
+   (padstack 6
+    (hole 3.28)
+    (plated true)
+    (pad (layer TCOP) (round 4.920))
+    (pad (layer INNER) (round 4.920))
+    (pad (layer BCOP) (round 4.920))
+   )
+   (padstack 7
+    (hole 3.28)
+    (plated true)
+    (pad (layer TCOP) (round 4.920))
+    (pad (layer INNER) (round 4.920))
+    (pad (layer BCOP) (round 4.920))
+   )
+   (model "PEC12R-3220F-S0024.stp"
+    (euler 90 0 0)
+    (offset 2.380000114440918 -7.050000190734863 5.059999942779541)
+   )
+  )
+ )
+)

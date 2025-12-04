@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_14512443"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-06-14-07:56:19)
+    (utime 2024-12-23-08:18:08)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "30_002")
+)
+
+
+(pinAssign "ECS_14512443"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-06-14-07:56:19)
+    (utime 2024-12-23-08:18:08)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_14512443")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "30_002")
+)
+
+
+(part "30_002"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-06-14-07:56:19)
+    (utime 2024-12-23-08:18:08)
+    (packageRef "30_002")
+    (pinAssignRef "ECS_14512443")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "J")
+    (property "description" "Fixed Terminal Blocks AK100/2wp PCBGry")
+    (property "Manufacturer_Name" "Altech")
+    (property "Manufacturer_Part_Number" "30.002")
+    (property "Mouser_Part_Number" "845-30.002")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Altech/30.002?qs=GlCpp4uMqnB%2FSggixfJMBw%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://www.mouser.it/datasheet/2/16/PCBMETRC-24178.pdf")
+    (property "compAreaTopHeight" 12.5)
+)
+
+

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'F3311A7H121016E200'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Amphenol Communications Solutions", "F3311A7H121016E200" (!) = "", "F3311A7H121016E200", "Other", "649-311A7H121016E200", "https://www.mouser.co.uk/ProductDetail/Amphenol-Aorora/F3311A7H121016E200?qs=DPoM0jnrROVwLto3hGOm7g%3D%3D", "", "", "Flex Connector, P=0.50mm, H=1.00mm, Right angle orientation, Flip type, ZIF, Double contact, point 16P", "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/f331.pdf", "1.12 mm"
+END_PART
+
+END.

@@ -1,0 +1,18 @@
+.30.002 :1 ;Fixed Terminal Blocks AK100/2wp PCBGry
+"30002"
+*STM J
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 30.002
+~!Manufacturer_Name (Altech)
+~!Manufacturer_Part_Number (30.002)
+~!Mouser Part Number (845-30.002)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Altech/30.002?qs=GlCpp4uMqnB%2FSggixfJMBw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.mouser.it/datasheet/2/16/PCBMETRC-24178.pdf)
+~!Height (12.5mm)
+~!3D_Model (30.002)
+"30.002"
+1.1!U 2.1!U 

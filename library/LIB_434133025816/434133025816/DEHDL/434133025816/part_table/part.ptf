@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '434133025816'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "434133025816" (!) = "", "434133025816", "Other", "710-434133025816", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/434133025816?qs=sPbYRqrBIVmKpJ9kaO4kMw%3D%3D", "", "", "WS-TASV Tact Switch 4.2*3.2mm vertical type, J-Bend SMT, height 2.5mm, black actuator, 160gf, T&R", "https://www.we-online.com/components/products/download/3D_4341x30258x6+%28rev1%29.pdf", "2.5 mm"
+END_PART
+
+END.

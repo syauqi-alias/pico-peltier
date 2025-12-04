@@ -1,0 +1,19 @@
+.PEC12R-3220F-S0024 :1 ;Encoders HORZ 24DET 24PULSE 20mm SHAFT SPST SW
+PEC12R3220FS0024
+*STM S
+*NGS
+*PNM 1=1 2=2 3=A1 4=B1 5=C1 6=MH1 7=MH2
+*PLB 1="COM" 2="NO" 3="CHANNEL A" 4="CHANNEL B" 5="COMMON" 6="MH1" 7="MH2"
+*MXP 7
+*DFN PEC12R-3220F-S0024
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (PEC12R-3220F-S0024)
+~!Mouser Part Number (652-PEC12R3220FS0024)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/PEC12R-3220F-S0024?qs=%252B9%2Fcbd0IE0Tm%252BWkxcjszVA%3D%3D)
+~!Arrow Part Number (PEC12R-3220F-S0024)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/pec12r-3220f-s0024/bourns?region=nac)
+~!Link Datasheet (https://www.bourns.com/docs/Product-Datasheets/PEC12R.pdf)
+~!Height (22.5mm)
+~!3D_Model (PEC12R-3220F-S0024)
+PEC12R-3220F-S0024
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 
