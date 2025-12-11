@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "8e9ec79a-af49-40f8-8b2f-f8512d8147d2")
 	(paper "A4")
+	(title_block
+		(title "LT8722 Half Bridge Driver")
+		(date "2025-12-11")
+		(rev "1a")
+		(company "Otai Labs")
+		(comment 1 "Design by Syauqi Alias")
+	)
 	(lib_symbols
 		(symbol "Connector:Screw_Terminal_01x02"
 			(pin_names

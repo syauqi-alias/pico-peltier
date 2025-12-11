@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "d8e462c1-3132-45cc-990e-5626824e9d28")
 	(paper "A3")
+	(title_block
+		(title "RP2350 MCU")
+		(date "2025-12-11")
+		(rev "1a")
+		(company "Otai Labs")
+		(comment 1 "Design by Syauqi Alias")
+	)
 	(lib_symbols
 		(symbol "Connector:USB_C_Receptacle_USB2.0_14P"
 			(pin_names

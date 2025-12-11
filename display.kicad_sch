@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "bb50fe94-3c3b-4fe9-9df1-846b0ca57a54")
 	(paper "A4")
+	(title_block
+		(title "Display and Encoder")
+		(date "2025-12-11")
+		(rev "1a")
+		(company "Otai Labs")
+		(comment 1 "Design by Syauqi Alias")
+	)
 	(lib_symbols
 		(symbol "Amphenol_FPC_16:F3311A7H121016E200"
 			(pin_names

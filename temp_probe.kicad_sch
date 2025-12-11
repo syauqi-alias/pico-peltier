@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "b8f89a09-a3c4-4f6b-ba1a-f373cdded474")
 	(paper "A4")
+	(title_block
+		(title "NTC 10K Probe")
+		(date "2025-12-11")
+		(rev "1a")
+		(company "Otai Labs")
+		(comment 1 "Design by Syauqi Alias")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers
