@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 2.0,
-          "width": 1.0
+          "height": 4.7,
+          "width": 4.7
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -61,6 +61,10 @@
       "drc_exclusions": [
         [
           "copper_edge_clearance|108322500|108535000|78e2d101-cf51-4580-a7e1-af098e4c7df4|c2ba8343-b4ed-4900-8eeb-2c9371963f7a",
+          ""
+        ],
+        [
+          "lib_footprint_issues|91497500|143455000|47475ba7-5084-4af2-9345-67f5876e3a41|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
